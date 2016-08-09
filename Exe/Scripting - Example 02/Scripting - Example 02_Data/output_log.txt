@@ -1,0 +1,98 @@
+Initialize engine version: 5.3.5f1 (960ebf59018a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 720M   (ID=0x1140)
+    Vendor:   NVIDIA
+    VRAM:     1996 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Asus\Documents\Unity\Executables\Scripting - Example 02\Scripting - Example 02_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Asus\Documents\Unity\Executables\Scripting - Example 02\Scripting - Example 02_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Asus\Documents\Unity\Executables\Scripting - Example 02\Scripting - Example 02_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Asus\Documents\Unity\Executables\Scripting - Example 02\Scripting - Example 02_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Asus\Documents\Unity\Executables\Scripting - Example 02\Scripting - Example 02_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Asus\Documents\Unity\Executables\Scripting - Example 02\Scripting - Example 02_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Asus\Documents\Unity\Executables\Scripting - Example 02\Scripting - Example 02_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Asus\Documents\Unity\Executables\Scripting - Example 02\Scripting - Example 02_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.064 seconds
+Platform assembly: C:\Users\Asus\Documents\Unity\Executables\Scripting - Example 02\Scripting - Example 02_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Asus\Documents\Unity\Executables\Scripting - Example 02\Scripting - Example 02_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.655706 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 47c -> priority: 1 
+Changed Weapon: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Changed Weapon: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.183979 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 329.
+Total: 0.850708 ms (FindLiveObjects: 0.049605 ms CreateObjectMapping: 0.038202 ms MarkObjects: 0.445310 ms  DeleteObjects: 0.316449 ms)
+
+Changed Weapon: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Changed Weapon: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.886249 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 329.
+Total: 0.875796 ms (FindLiveObjects: 0.065570 ms CreateObjectMapping: 0.035351 ms MarkObjects: 0.456143 ms  DeleteObjects: 0.317590 ms)
+
+Changed Weapon: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Changed Weapon: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.799582 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 329.
+Total: 0.867243 ms (FindLiveObjects: 0.038202 ms CreateObjectMapping: 0.034780 ms MarkObjects: 0.476670 ms  DeleteObjects: 0.317019 ms)
+
+Changed Weapon: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Changed Weapon: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Changed Weapon: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Changed Weapon: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.841205 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 329.
+Total: 0.899743 ms (FindLiveObjects: 0.045614 ms CreateObjectMapping: 0.037061 ms MarkObjects: 0.480091 ms  DeleteObjects: 0.325002 ms)
+
+Changed Weapon: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Changed Weapon: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
